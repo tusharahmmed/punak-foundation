@@ -1,0 +1,14 @@
+.person{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.person-thumb img{
+   height: 50px; 
+}

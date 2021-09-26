@@ -1,0 +1,26 @@
+.fund-title{
+    background-color: #F3F7FD;
+}
+.dot{
+    height: 13px;
+    width: 13px;
+    background-color: #bf3654;
+    display: inline-block;
+    border-radius: 50%;
+}
+.fund{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 0px 95px;
+    padding-top: 50px;
+    background-color: #F3F7FD;
+}
+.donor-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-row-gap: 40px;
+}
+.total-cart{
+    height: auto;
+}
+

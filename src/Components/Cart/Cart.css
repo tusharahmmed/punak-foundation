@@ -1,0 +1,11 @@
+.cart-title{
+    letter-spacing: 1px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.cart-title i{
+    color: #bf3654b6;
+}
+.person-details{
+    letter-spacing: 1px;
+}

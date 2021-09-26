@@ -1,0 +1,25 @@
+.donor{
+    position: relative;
+    padding-top: 86px;
+}
+.donor-img{
+    position: absolute;
+    top: 20px;
+    left: 51px;
+}
+.donor a:hover{
+    color: #bf3654;
+}
+.links a i{
+    margin-right: 10px;
+}
+.number i{
+    font-size: 14px;
+}
+.donate-btn{
+    font-size: 14px;
+    background-color: #bf3654;
+    color: white;
+    padding: 0px 8px;
+    border-radius: 1px;
+}

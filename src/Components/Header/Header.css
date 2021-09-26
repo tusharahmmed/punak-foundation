@@ -1,0 +1,75 @@
+/*
+    header top section
+*/
+.top{
+    background-color: #001d4c;
+    color: #fff;
+    display:flex;
+    justify-content: space-between;
+    padding: 15px 80px;
+}
+.info{
+    display: flex;
+}
+.info i{
+    margin-right: 10px;
+    color: #bf3654;
+}
+.info .phone{
+    margin-left: 20px;
+    padding-left: 15px;
+    border-left: 2px solid rgba(255, 255, 255, 0.712);
+}
+.social-menu ul{
+    list-style-type: none;
+    display: flex;
+    margin: 0px;
+}
+.social-menu ul li{
+    margin-right: 20px;
+}
+i{
+    font-size: 18px;
+}
+
+/*
+    header bottom section
+*/
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 80px
+}
+
+.bottom nav ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0px;
+}
+
+.bottom nav ul li a{
+    font-size: 13px;
+    letter-spacing: 0.06em;
+    padding: 35px 15px;
+    text-transform: uppercase;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.bottom nav ul li a:hover{
+    color: #bf3654;
+}
+.donation button{
+    background-color: #bf3654;
+    padding: 20px 40px;
+    margin-right: 20px;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+}
+.donation button i{
+    font-size: 16px;
+}
